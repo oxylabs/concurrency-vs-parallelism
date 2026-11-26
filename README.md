@@ -1,6 +1,6 @@
 # Concurrency vs. Parallelism
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=concurrency-vs-parallelism-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=concurrency-vs-parallelism&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -23,7 +23,7 @@ This article gives you an overview of the differences between concurrency and pa
 
 This article gives you an overview of cURL.
 
-For a detailed explanation, see our [blog post](https://oxylabs.io/blog/concurrency-vs-parallelism).
+For a detailed explanation, see our [blog post](https://oxylabs.io/blog/concurrency-vs-parallelism?utm_source=github&utm_medium=referral&utm_content=concurrency-vs-parallelism&groupid=877).
 
 ## What is concurrency?
 
@@ -139,4 +139,4 @@ with Pool(cpu_count()) as p:
 
 This fetches all 233 links in **18.10 seconds**. It’s also noticeably faster than the synchronous version which took around 138 seconds.
 
-If you wish to learn more about Concurrency vs. Parallelism, see our [blog post](https://oxylabs.io/blog/concurrency-vs-parallelism).
+If you wish to learn more about Concurrency vs. Parallelism, see our [blog post](https://oxylabs.io/blog/concurrency-vs-parallelism?utm_source=github&utm_medium=referral&utm_content=concurrency-vs-parallelism&groupid=877).
